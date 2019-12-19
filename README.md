@@ -1,4 +1,4 @@
-This is a project created using framework of javascript VueJS.
+This is a project created using framework of javascript VueJS. That is inspired on calculator of apple
 
 # calculator
 
